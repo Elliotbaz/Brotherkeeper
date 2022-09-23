@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "739452947388",
+    "project_id": "brother-skeepers",
+    "storage_bucket": "brother-skeepers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739452947388:android:f9110b09e9b15aae45b9b9",
+        "android_client_info": {
+          "package_name": "com.keepbrotherreport.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739452947388-cjtjcddu99b6cgote1q7rbpnklbr2kjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aFaY4jqkMd6OL4iZ5hfmevXihJD7W2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739452947388-cjtjcddu99b6cgote1q7rbpnklbr2kjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739452947388-81nth0m2582jeup7kmiu0riv4e5a3309.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keepbrotherreport.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
